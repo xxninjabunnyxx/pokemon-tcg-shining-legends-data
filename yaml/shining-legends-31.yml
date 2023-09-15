@@ -1,0 +1,87 @@
+---
+id: sm35-31
+name: Electrode
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '90'
+types:
+- Lightning
+evolvesFrom: Voltorb
+attacks:
+- name: Swift
+  cost:
+  - Lightning
+  convertedEnergyCost: 1
+  damage: '60'
+  text: This attack's damage isn't affected by Weakness, Resistance, or any other
+    effects on your opponent's Active Pokémon.
+weaknesses:
+- type: Fighting
+  value: "×2"
+resistances:
+- type: Metal
+  value: "-20"
+set:
+  id: sm35
+  name: Shining Legends
+  series: Sun & Moon
+  printedTotal: 73
+  total: 81
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: SLG
+  releaseDate: 2017/10/06
+  updatedAt: 2022/10/11 21:39:00
+  images:
+    symbol: https://images.pokemontcg.io/sm35/symbol.png
+    logo: https://images.pokemontcg.io/sm35/logo.png
+number: '31'
+artist: Kyoko Umemoto
+rarity: Uncommon
+flavorText: It explodes in response to even minor stimuli. It is feared, with the
+  nickname of "The Bomb Ball."
+nationalPokedexNumbers:
+- 101
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm35/31.png
+  large: https://images.pokemontcg.io/sm35/31_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm35-31
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.08
+      mid: 0.2
+      high: 2.0
+      market: 0.13
+      directLow: 0.12
+    reverseHolofoil:
+      low: 0.12
+      mid: 0.3
+      high: 2.0
+      market: 0.31
+      directLow: 0.3
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm35-31
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.08
+    lowPrice: 0.02
+    trendPrice: 0.07
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.48
+    reverseHoloLow: 0.1
+    reverseHoloTrend: 0.36
+    lowPriceExPlus: 0.02
+    avg1: 0.05
+    avg7: 0.07
+    avg30: 0.07
+    reverseHoloAvg1: 0.64
+    reverseHoloAvg7: 0.46
+    reverseHoloAvg30: 0.37

@@ -1,0 +1,100 @@
+---
+id: sm35-77
+name: Zoroark-GX
+supertype: Pokémon
+subtypes:
+- Stage 1
+- GX
+hp: '210'
+types:
+- Darkness
+evolvesFrom: Zorua
+rules:
+- 'Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize
+  cards.'
+abilities:
+- name: Trade
+  text: Once during your turn (before your attack), you may discard a card from your
+    hand. If you do, draw 2 cards.
+  type: Ability
+attacks:
+- name: Riotous Beating
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 20×
+  text: This attack does 20 damage for each of your Pokémon in play.
+- name: Trickster-GX
+  cost:
+  - Darkness
+  - Darkness
+  convertedEnergyCost: 2
+  damage: ''
+  text: Choose 1 of your opponent's Pokémon's attacks and use it as this attack. (You
+    can't use more than 1 GX attack in a game.)
+weaknesses:
+- type: Fighting
+  value: "×2"
+resistances:
+- type: Psychic
+  value: "-20"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: sm35
+  name: Shining Legends
+  series: Sun & Moon
+  printedTotal: 73
+  total: 81
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: SLG
+  releaseDate: 2017/10/06
+  updatedAt: 2022/10/11 21:39:00
+  images:
+    symbol: https://images.pokemontcg.io/sm35/symbol.png
+    logo: https://images.pokemontcg.io/sm35/logo.png
+number: '77'
+artist: 5ban Graphics
+rarity: Rare Rainbow
+nationalPokedexNumbers:
+- 571
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm35/77.png
+  large: https://images.pokemontcg.io/sm35/77_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm35-77
+  updatedAt: 2023/09/15
+  prices:
+    holofoil:
+      low: 9.73
+      mid: 12.53
+      high: 25.99
+      market: 12.48
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm35-77
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 12.99
+    lowPrice: 9.98
+    trendPrice: 17.45
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 27.32
+    lowPriceExPlus: 9.98
+    avg1: 6.75
+    avg7: 16.49
+    avg30: 20.84
+    reverseHoloAvg1: 31.0
+    reverseHoloAvg7: 27.24
+    reverseHoloAvg30: 27.05

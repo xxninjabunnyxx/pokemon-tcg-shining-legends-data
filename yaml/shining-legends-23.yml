@@ -1,0 +1,94 @@
+---
+id: sm35-23
+name: Floatzel
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '100'
+types:
+- Water
+evolvesFrom: Buizel
+attacks:
+- name: Razor Fin
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '20'
+  text: ''
+- name: Aqua Bomb
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '120'
+  text: This Pokémon does 30 damage to itself.
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm35
+  name: Shining Legends
+  series: Sun & Moon
+  printedTotal: 73
+  total: 81
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: SLG
+  releaseDate: 2017/10/06
+  updatedAt: 2022/10/11 21:39:00
+  images:
+    symbol: https://images.pokemontcg.io/sm35/symbol.png
+    logo: https://images.pokemontcg.io/sm35/logo.png
+number: '23'
+artist: Suwama Chiaki
+rarity: Uncommon
+flavorText: It floats using its well-developed flotation sac. It assists in the rescues
+  of drowning people.
+nationalPokedexNumbers:
+- 419
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm35/23.png
+  large: https://images.pokemontcg.io/sm35/23_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm35-23
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.04
+      mid: 0.2
+      high: 2.0
+      market: 0.11
+      directLow: 0.07
+    reverseHolofoil:
+      low: 0.12
+      mid: 0.31
+      high: 2.0
+      market: 0.28
+      directLow: 0.2
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm35-23
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.07
+    lowPrice: 0.02
+    trendPrice: 0.06
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.43
+    reverseHoloLow: 0.05
+    reverseHoloTrend: 0.34
+    lowPriceExPlus: 0.02
+    avg1: 0.04
+    avg7: 0.08
+    avg30: 0.08
+    reverseHoloAvg1: 0.24
+    reverseHoloAvg7: 0.39
+    reverseHoloAvg30: 0.33
